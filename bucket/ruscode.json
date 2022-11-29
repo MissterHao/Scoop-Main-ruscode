@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "description": "A visual studio code's workspaces organizer written in Rust",
+    "homepage": "https://github.com/MissterHao/ruscode",
+    "license": "MIT",
+    "url": "https://github.com/MissterHao/ruscode/releases/download/v1.0.0/window-binary.zip",
+    "bin": "ruscode.exe"
+}
